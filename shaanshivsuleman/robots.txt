@@ -1,0 +1,15 @@
+# shaanshivsuleman.music robots.txt
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: Slurp
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /images/
+Disallow: /fonts/
+Disallow: /css/
+Disallow: /js/
+Disallow: /img/
+Sitemap: http://www.shaanshivsuleman.music/sitemap.xml
